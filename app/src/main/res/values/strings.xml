@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Email Client</string>
+    <!-- Buttons -->
+    <string name="button_send">Send</string>
+    <string name="button_reset">Reset</string>
+    <!-- Inputs placeholders -->
+    <string name="input_name">Name</string>
+    <string name="input_subject">Subject</string>
+    <string name="input_email">Email</string>
+    <string name="input_text">Text</string>
+</resources>
